@@ -6,6 +6,6 @@ it has been build with the following :-
 - Mantine UI.
 - Redux toolkit , react redux and react-router dom.  
 
-The application helps users to search and locate weather details of specific cities
--[View](https://newsfeedspro.netlify.app) -
+The application helps users to search and locate weather details of specific cities   
+[click here to View](https://newsfeedspro.netlify.app) 
 
